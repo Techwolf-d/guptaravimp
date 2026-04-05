@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi Gupta</h1>
+<h1 align="center">Hi 👋, I'm Dinupa Dulnith</h1>
 <h3 align="center">A passionate software Developer Engineer from India</h3>
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 - 🌱 I’m currently learning **DSA, Web developement**
